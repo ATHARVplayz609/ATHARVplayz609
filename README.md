@@ -6,6 +6,6 @@ server boi
 
 
 | OPNetwork
-» Discord User: ATHARVplayz609#6969
+\n» Discord User: ATHARVplayz609#6969
 » Discord: www.opnetwork.tk/discord
 » Website: www.opnetwork.tk
