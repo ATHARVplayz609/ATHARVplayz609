@@ -1,7 +1,9 @@
-Hey! am atharvplayz609
+Sup its me ATHARVplayz609
 
-Owner of OPNetwork and a newbie
-system administrator!
+why r u here well am a newbie system admin and 
+owner of OPNetwork and now join the discord
+server boi
+
 
 | OPNetwork
 » Discord User: ATHARVplayz609#6969
