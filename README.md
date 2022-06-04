@@ -2,7 +2,7 @@ Hi, guess you found my profile page.
 
 So here's a few details about me,
 
-Newbie System Administrator
+Newbie System Administrator\n
 I code in PHP, C++, CSS, Html, Python, Java, Javascript and C#
 3 years of network administrator and head developer rank
 
