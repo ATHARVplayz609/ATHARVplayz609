@@ -1,25 +1,27 @@
-Hi, guess you found my profile page.
+» Hi, guess you found my profile page.
 
-So here's a few details about me,
+» So here's a few details about me,
 
-Newbie System Administrator
-I code in PHP, C++, CSS, Html, Python, Java, Javascript and C#
-3 years of network administrator and head developer rank
+| Newbie System Administrator
 
-Few projects I am actively working on:
+| PHP, C++, CSS, Html, Python, Java, Javascript
 
-OPNetwork:
+| 3 years of Server Developing & Administration Experience
 
-A minecraft server with a skyblock gamemode and a upcoming
-survival gamemode.
+» Few projects I am actively working on:
 
-https://www.opnetwork.cf
-https://www.opnetwork.cf/discord
+» OPNetwork:
+
+| A minecraft server with a skyblock gamemode and a upcoming
+| survival gamemode.
+
+» https://www.opnetwork.tk
+| » https://www.opnetwork.tk/discord
 
 
-OPNetwork Bot:
+» OPNetwork Bot:
 
-Just a bot for opnetwork's personal use and 
-a in network usage.
+| Just a bot for opnetwork's personal use and 
+| a in network usage.
 
-No links for this project
+» No links for this project
