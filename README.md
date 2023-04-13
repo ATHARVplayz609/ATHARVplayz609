@@ -21,7 +21,6 @@
 
 » OPNetwork Bot:
 
-| Just a bot for opnetwork's personal use and 
-| a in network usage.
+| Just a bot for opnetwork's personal use
 
 » No links for this project
