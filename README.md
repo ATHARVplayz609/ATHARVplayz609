@@ -2,7 +2,7 @@
 
 » So here's a few details about me,
 
-| Newbie System Administrator
+| System Administrator
 
 | PHP, C++, CSS, Html, Python, Java, Javascript
 
