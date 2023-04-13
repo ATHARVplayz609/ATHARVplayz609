@@ -13,7 +13,7 @@
 » OPNetwork:
 
 | A minecraft server with a skyblock gamemode and a upcoming
-| survival gamemode.
+| Skyblock gamemode.
 
 » https://www.opnetwork.tk
 | » https://www.opnetwork.tk/discord
